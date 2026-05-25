@@ -39,6 +39,7 @@ Crea un grupo si no existe.
 
 ### 4. Añadir usuario a grupo
 Añade un usuario a un grupo con `usermod -aG`.
+
 <img width="552" height="152" alt="image" src="https://github.com/user-attachments/assets/72d5362a-80c4-4237-b685-bcf9e9fe77c9" />
 
 ### 5. Ver datos usuario
@@ -48,11 +49,13 @@ Muestra información del usuario con `id`.
 
 ### 6. Borrar usuario
 Elimina usuario y su home.
+
 <img width="701" height="202" alt="image" src="https://github.com/user-attachments/assets/1bafad59-4739-41d2-9312-ecca02f2b847" />
 
 
 ### 7. Borrar grupo
 Elimina un grupo del sistema.
+
 <img width="651" height="212" alt="image" src="https://github.com/user-attachments/assets/253e014f-d95d-44d0-83ab-2fd56daaa4cd" />
 
 ---
@@ -79,3 +82,6 @@ Dar permisos al fichero y ejecutarlo como superusuario
 ```bash
 chmod +x usergest.sh
 sudo bash usergest.sh
+```
+Descarga aquí nuestra versión más reciente del programa
+https://github.com/lucasaledo06/usergest-bash/releases/tag/Alpha
