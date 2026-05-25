@@ -39,6 +39,7 @@ Crea un grupo si no existe.
 
 ### 4. Añadir usuario a grupo
 Añade un usuario a un grupo con `usermod -aG`.
+
 <img width="552" height="152" alt="image" src="https://github.com/user-attachments/assets/72d5362a-80c4-4237-b685-bcf9e9fe77c9" />
 
 ### 5. Ver datos usuario
