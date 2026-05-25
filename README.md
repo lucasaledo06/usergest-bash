@@ -32,6 +32,7 @@ Asigna o cambia la contraseña de un usuario usando `chpasswd`.
 
 ### 3. Crear grupo
 Crea un grupo si no existe.
+
 <img width="537" height="100" alt="image" src="https://github.com/user-attachments/assets/ba4cf69a-43e3-4f8c-81fd-0b6d5e7186ee" />
 
 
