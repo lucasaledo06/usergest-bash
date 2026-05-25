@@ -28,9 +28,8 @@ Crea un usuario nuevo con directorio home en `/home` y shell `/bin/bash`.
 
 ### 2. Crear contraseña
 Asigna o cambia la contraseña de un usuario usando `chpasswd`.
-<img width="691" height="158" alt="image" src="https://github.com/user-attachments/assets/97a55e42-35bc-4503-b17d-0d4a625b0107" />
+<img width="691" height="158" alt="image" src="https://github.com/user-attachments/assets/97a55e42-35bc-4503-b17d-0d4a625b0107"/>
 
-D
 ### 3. Crear grupo
 Crea un grupo si no existe.
 <img width="537" height="100" alt="image" src="https://github.com/user-attachments/assets/ba4cf69a-43e3-4f8c-81fd-0b6d5e7186ee" />
