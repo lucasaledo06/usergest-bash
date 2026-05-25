@@ -67,7 +67,15 @@ Elimina un grupo del sistema.
 ---
 
 ## Ejecución
-
+Actualizar repositorios
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+```
+Instalar la dependencia necesaria
+```bash
+sudo apt-get install figlet -y
+```
+Dar permisos al fichero y ejecutarlo como superusuario
 ```bash
 chmod +x usergest.sh
 sudo bash usergest.sh
