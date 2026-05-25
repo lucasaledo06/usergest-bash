@@ -49,11 +49,13 @@ Muestra información del usuario con `id`.
 
 ### 6. Borrar usuario
 Elimina usuario y su home.
+
 <img width="701" height="202" alt="image" src="https://github.com/user-attachments/assets/1bafad59-4739-41d2-9312-ecca02f2b847" />
 
 
 ### 7. Borrar grupo
 Elimina un grupo del sistema.
+
 <img width="651" height="212" alt="image" src="https://github.com/user-attachments/assets/253e014f-d95d-44d0-83ab-2fd56daaa4cd" />
 
 ---
