@@ -79,3 +79,6 @@ Dar permisos al fichero y ejecutarlo como superusuario
 ```bash
 chmod +x usergest.sh
 sudo bash usergest.sh
+```
+Descarga aquí nuestra versión más reciente del programa
+https://github.com/lucasaledo06/usergest-bash/releases/tag/Alpha
